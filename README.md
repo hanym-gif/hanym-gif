@@ -16,4 +16,4 @@ The GitHub Pages workflow deploys the static site from the repository root. For 
 
 https://hanym-gif.github.io/hanym-gif/
 
-Last deployment trigger: 2026-05-11 21:40 Asia/Shanghai.
+Last deployment trigger: 2026-05-11 21:44 Asia/Shanghai.
