@@ -11,17 +11,17 @@ ESTACK
 
 [ESTACK](https://github.com/hanym-gif/ESTACK) contains the code and data accompanying *Interpretable machine-learning models for predicting elasticity and ductility of inorganic materials*. The project supports reproducible model training, evaluation, and interpretation for materials-property prediction.
 
-Topological transport simulations
+Condensed-matter theory
 ======
 
-This ongoing computational project studies Hall and thermal transport in Haldane-type, graphene multilayer, and superconducting lattice models. The workflow pairs bulk bands and ribbon spectra with Berry-curvature, Kubo, and multiterminal transport calculations, including finite-size and decoherence effects.
+This ongoing work investigates quantum transport in topological insulators and topological superconductors, together with the physical consequences of the parity anomaly in condensed-matter systems. The broader aim is to identify robust transport signatures that connect fundamental topological phenomena with measurable responses.
 
-Quantum computation notebooks
+Quantum computation and quantum optics
 ======
 
-The [quantum_computation](https://github.com/hanym-gif/quantum_computation) repository collects implementations and experiments involving variational quantum algorithms, quantum machine learning, quantum error correction, and circuit-noise models using Cirq, TensorFlow Quantum, PennyLane, and related tools.
+The [quantum_computation](https://github.com/hanym-gif/quantum_computation) repository collects implementations and experiments in quantum algorithms, quantum machine learning, quantum error correction, and noisy quantum systems. Related work explores how loss and dissipation affect quantum information processing in quantum-optical settings.
 
 Scientific literature automation
 ======
 
-The [zotero-arxiv-daily](https://github.com/hanym-gif/zotero-arxiv-daily) workflow explores automated literature monitoring and relevance ranking from a Zotero library. It supports a broader goal of connecting daily literature discovery with reproducible research notes and computational projects.
+The [zotero-arxiv-daily](https://github.com/hanym-gif/zotero-arxiv-daily) workflow explores automated literature monitoring and relevance ranking from a Zotero library, supporting efficient discovery and organization of research literature.

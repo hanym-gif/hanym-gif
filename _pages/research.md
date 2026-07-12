@@ -2,36 +2,27 @@
 layout: archive
 title: "Research"
 permalink: /research/
-excerpt: "Research interests and methods"
+excerpt: "Research interests"
 author_profile: true
 ---
 
-Topological quantum transport
+Condensed-matter theory
 ======
 
-I study transport signatures of topological phases in finite quantum systems. A central question is how bulk topology, valley-resolved Berry curvature, edge spectra, contact geometry, disorder, and decoherence combine to determine measurable Hall or thermal conductance. Current numerical work includes Haldane-type models, graphene multilayers, Majorana edge bands, and voltage-probe descriptions of dephasing.
+My research in condensed-matter theory focuses on quantum transport in topological states of matter, particularly topological insulators and topological superconductors. I am interested in how topology gives rise to robust electrical and thermal transport phenomena, and how these signatures can be identified in realistic condensed-matter systems.
 
-The calculations connect several complementary views of the same system: bulk bands along high-symmetry paths, nanoribbon spectra, Berry-curvature and Chern diagnostics, Kubo response, and multiterminal transport. This comparison is especially useful near gap-closing phase boundaries, where finite-size and energy-window effects become physically important.
+The parity anomaly in condensed matter is another central theme of my work. I study its physical manifestations and transport consequences, with the goal of distinguishing anomaly-related responses from conventional bulk and boundary effects.
 
-First-principles materials modelling and machine learning
+DFT and artificial intelligence
 ======
 
-I am interested in combining electronic-structure information with interpretable machine learning. The goal is not only to predict materials properties accurately, but also to expose the physical trends behind a prediction. Recent work focuses on elasticity and ductility indicators in inorganic materials, with model interpretation used to connect descriptors to mechanical behavior.
+I combine density functional theory with machine learning and deep learning to accelerate the discovery and optimization of functional materials. A primary objective is to reduce the cost of large-scale materials screening while maintaining physically meaningful predictions.
 
-Quantum information in open systems
+Beyond predictive accuracy, I am interested in using interpretable models to reveal structure-property relationships. These insights can guide inverse materials design, where target properties are specified first and promising compositions or structures are then identified efficiently.
+
+Quantum computation and quantum optics
 ======
 
-Noise is both a practical constraint and a source of structure in quantum devices. I study how photon loss and other open-system effects influence symmetry-breaking quantum error-correction schemes, and how physically informed encodings can preserve useful information under realistic dissipation.
+My interests in quantum science include quantum computation, quantum error correction, and quantum optics. I am particularly interested in the interplay between coherent quantum dynamics, noise, dissipation, and the protection of quantum information.
 
-Computational methods
-======
-
-My work combines analytical reasoning with reproducible numerical workflows:
-
-* tight-binding Hamiltonians and band-structure calculations;
-* Berry curvature, Chern numbers, and Kubo-response methods;
-* nonequilibrium Green functions and multiterminal transport;
-* first-principles datasets and interpretable machine learning;
-* Python, Jupyter notebooks, and HPC parameter sweeps.
-
-The [Publications]({{ site.baseurl }}/publications/) page provides the corresponding journal articles, and [Projects]({{ site.baseurl }}/projects/) collects selected code and computational workflows.
+The [Publications]({{ site.baseurl }}/publications/) page lists the corresponding journal articles, while [Projects]({{ site.baseurl }}/projects/) presents selected research software and computational work.

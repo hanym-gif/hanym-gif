@@ -15,10 +15,9 @@ Education
 Research interests
 ======
 
-* Condensed-matter theory and topological quantum transport
-* First-principles materials modelling
-* Interpretable machine learning for physical sciences
-* Quantum computation, noise, and error correction
+* Condensed-matter theory: quantum transport in topological insulators and topological superconductors; parity anomaly in condensed-matter systems
+* DFT and artificial intelligence: machine learning and deep learning for materials screening, structure-property relationships, and inverse materials design
+* Quantum computation and quantum optics
 
 Publications
 ======
