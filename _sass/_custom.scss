@@ -1,0 +1,109 @@
+/* Site-specific polish layered on top of the AcademicPages template. */
+
+html {
+  background: #f3f5f2;
+}
+
+body {
+  letter-spacing: 0;
+}
+
+.masthead {
+  background: rgba(255, 255, 255, 0.98);
+  border-bottom: 1px solid #d8dedb;
+  box-shadow: 0 1px 0 rgba(24, 93, 99, 0.05);
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a.site-title {
+  color: #273033;
+  font-weight: 700;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #185d63;
+}
+
+#main {
+  padding-top: 2.5rem;
+}
+
+.page__title,
+.archive__item-title {
+  color: #273033;
+}
+
+.page__content h2 {
+  margin-top: 2.25rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #d8dedb;
+  color: #185d63;
+}
+
+.page__content p,
+.page__content li {
+  line-height: 1.72;
+}
+
+.author__avatar img {
+  background: #fff;
+  border-color: #cbd4d0;
+  box-shadow: 0 8px 24px rgba(39, 48, 51, 0.08);
+}
+
+.author__bio {
+  color: #526063;
+}
+
+.author__urls li {
+  margin-bottom: 0.35rem;
+}
+
+.archive__item {
+  margin-bottom: 1.65rem;
+  padding-bottom: 1.35rem;
+  border-bottom: 1px solid #e1e5e2;
+}
+
+.archive__item-title {
+  margin-bottom: 0.45rem;
+  font-size: 1.15rem;
+  line-height: 1.4;
+}
+
+.publication__authors,
+.publication__venue {
+  margin: 0.25rem 0;
+  color: #526063;
+  font-size: 0.92rem;
+}
+
+.publication__links {
+  margin: 0.55rem 0 0;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.page__footer {
+  color: #dfe6e2;
+  background: #273033;
+}
+
+.page__footer a {
+  color: #fff;
+}
+
+@media (max-width: 924px) {
+  #main {
+    padding-top: 1.5rem;
+  }
+
+  .author__avatar img {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+  }
+}

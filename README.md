@@ -1,19 +1,18 @@
-# Yanmiao Han
+# Yanmiao Han's Academic Homepage
 
-Theoretical and computational condensed-matter physics, with interests in topological band theory, Berry curvature, Hall response, and quantum transport in graphene and Haldane-type lattice systems.
+Source for [hanym-gif.github.io/hanym-gif](https://hanym-gif.github.io/hanym-gif/).
 
-This repository hosts an academic homepage and also serves as the GitHub profile repository for `hanym-gif`.
+The site presents research interests, publications, selected projects, and a concise academic CV. It is built with Jekyll and deployed by GitHub Actions.
 
-Site pages:
+## Local development
 
-- Home: `index.html`
-- Research: `research.html`
-- Publications: `publications.html`
-- Projects: `projects.html`
-- CV: `cv.html`
+```bash
+bundle install
+bundle exec jekyll serve --baseurl /hanym-gif
+```
 
-The GitHub Pages workflow deploys the static site from the repository root. For this project repository, the expected Pages URL is usually:
+Then open `http://127.0.0.1:4000/hanym-gif/`.
 
-https://hanym-gif.github.io/hanym-gif/
+## Theme
 
-Last deployment trigger: 2026-05-11 21:44 Asia/Shanghai.
+This site is based on [SUSYUSTC/SUSYUSTC.github.io](https://github.com/SUSYUSTC/SUSYUSTC.github.io), which derives from [Academic Pages](https://github.com/academicpages/academicpages.github.io) and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme. See [LICENSE](LICENSE) for licensing details.
