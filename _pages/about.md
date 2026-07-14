@@ -23,4 +23,11 @@ Current research themes
 * DFT combined with machine learning and deep learning for materials screening, structure-property relationships, and inverse design
 * Quantum computation and quantum optics
 
+Recent publication
+======
+
+**Parity anomaly and its transport signatures in three-dimensional chiral topological phases**<br>
+Yu-Hao Wan, **Yanmiao Han**, Rundong Zhao, and Qing-Feng Sun<br>
+*Physical Review B* **114**, 055412 (2026). [DOI](https://doi.org/10.1103/p7dw-19m2)
+
 You can find my latest publication record on [Google Scholar](https://scholar.google.com/citations?user=6bR6AfIAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0008-9562-5287).
