@@ -58,7 +58,9 @@ social:
     - "https://orcid.org/0009-0008-9562-5287"
 
 analytics:
-  provider: false
+  provider: "custom"
+  goatcounter:
+    endpoint: "https://hanym-gif.goatcounter.com/count"
 
 # Files included in the build
 include:
