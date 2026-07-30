@@ -4,5 +4,35 @@
   data-goatcounter="{{ site.analytics.goatcounter.endpoint }}"
   async
   src="https://gc.zgo.at/count.js"></script>
+{% if site.analytics.goatcounter.public_counter %}
+<script>
+(function () {
+  var counter = document.querySelector("[data-goatcounter-total]");
+
+  if (!counter || !window.fetch) {
+    return;
+  }
+
+  fetch("{{ site.analytics.goatcounter.public_counter }}", {
+    credentials: "omit",
+    mode: "cors"
+  })
+    .then(function (response) {
+      if (!response.ok) {
+        throw new Error("Unable to load visitor count");
+      }
+      return response.json();
+    })
+    .then(function (data) {
+      if (!data.count) {
+        return;
+      }
+      counter.textContent = data.count;
+      counter.parentElement.hidden = false;
+    })
+    .catch(function () {});
+}());
+</script>
+{% endif %}
 {% endif %}
 <!-- end custom analytics snippet -->
