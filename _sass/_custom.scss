@@ -96,6 +96,12 @@ body {
   color: #fff;
 }
 
+.page__footer-visits {
+  margin-top: 0.35rem;
+  font-size: $type-size-7;
+  white-space: nowrap;
+}
+
 @media (max-width: 924px) {
   #main {
     padding-top: 1.5rem;
