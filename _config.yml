@@ -61,6 +61,7 @@ analytics:
   provider: "custom"
   goatcounter:
     endpoint: "https://hanym-gif.goatcounter.com/count"
+    public_counter: "https://hanym-gif.goatcounter.com/counter/TOTAL.json"
 
 # Files included in the build
 include:
