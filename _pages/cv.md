@@ -9,8 +9,20 @@ author_profile: true
 Education
 ======
 
-**PhD in Physics**, School of Physics, Beihang University, Beijing, China  
+**Ph.D. in Physics (in progress)**, School of Physics, Beihang University, Beijing, China<br>
 2024-present
+
+**M.Sc. in Physics**, School of Physics, Harbin Institute of Technology, Harbin, China<br>
+2020-2023
+
+**B.Sc. in Physics**, School of Physics and Electronics, Shandong Normal University, Jinan, China<br>
+2016-2020
+
+Professional experience
+======
+
+**Chief Engineer**, The 36th Research Institute of China Electronics Technology Group Corporation (CETC), China<br>
+2023-2024
 
 Research interests
 ======
