@@ -25,4 +25,4 @@ Quantum computation and quantum optics
 
 My interests in quantum science include quantum computation, quantum error correction, and quantum optics. I am particularly interested in the interplay between coherent quantum dynamics, noise, dissipation, and the protection of quantum information.
 
-The [Publications]({{ site.baseurl }}/publications/) page lists the corresponding journal articles, while [Projects]({{ site.baseurl }}/projects/) presents selected research software and computational work.
+The [Publications]({{ site.baseurl }}/publications/) page lists the corresponding journal articles.
