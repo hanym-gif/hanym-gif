@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 link: "https://doi.org/10.1103/dttl-27rf"
 authors: "**Yanmiao Han**, Rundong Zhao, and Yu-Hao Wan"
-date: 2026-10-08
-venue: "Physical Review B (accepted)"
+date: 2026-10-20
+venue: "Physical Review B 114, 245417"
 paperurl: "https://doi.org/10.1103/dttl-27rf"
 excerpt: "A winding-controlled parity-anomalous Hall response in two-dimensional chiral Lifshitz fermions."
 ---
